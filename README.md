@@ -1,7 +1,7 @@
-# Klisé
+# Peter  
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+Peter is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
+For demo <a href="https://34.125.57.157:4000/" target="_blank" rel="noopener">[Peter.website](https://34.125.57.157:4000/)</a>
 
 ## Features
 
@@ -10,9 +10,9 @@ For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now
 - [x] Responsive (desktop, tab and mobile)
 - [x] Mobile First Design
 - [x] SEO Optimized
-- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
+- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/peteryinghuang/jekyll-postfiles))
 - [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
-- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
+- [x] RSS Feed ([`jekyll-feed`](https://github.com/peteryinghuang/jekyll-feed))
 - [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
 - [x] Next & Previous Post
 - [x] Comment layout, enable in frontmatter if you wish
